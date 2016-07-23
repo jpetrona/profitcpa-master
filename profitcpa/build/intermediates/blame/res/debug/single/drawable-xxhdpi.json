@@ -32,28 +32,28 @@
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\src\\main\\res\\drawable-xxhdpi\\myrankingdark.png"
     },
     {
-        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_facebook.png",
-        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\src\\main\\res\\drawable-xxhdpi\\ic_facebook.png"
-    },
-    {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mycheckoutdark.png",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\src\\main\\res\\drawable-xxhdpi\\mycheckoutdark.png"
+    },
+    {
+        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_facebook.png",
+        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\src\\main\\res\\drawable-xxhdpi\\ic_facebook.png"
     },
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cast_disabled_light.png",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_disabled_light.png"
     },
     {
-        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cast_on_0_light.png",
-        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_on_0_light.png"
+        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mycountry.png",
+        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\src\\main\\res\\drawable-xxhdpi\\mycountry.png"
     },
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\myname.png",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\src\\main\\res\\drawable-xxhdpi\\myname.png"
     },
     {
-        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mycountry.png",
-        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\src\\main\\res\\drawable-xxhdpi\\mycountry.png"
+        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cast_on_0_light.png",
+        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_on_0_light.png"
     },
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_media_route_on_mono_dark.png",

@@ -462,19 +462,19 @@ public final class R {
 		public static final int wallet_buy_button_place_holder = 0x7f070062;
 	}
 	public static final class style {
-		public static final int CastIntroOverlay = 0x7f0900d6;
-		public static final int CastMiniController = 0x7f0900d7;
-		public static final int TextAppearance_CastIntroOverlay_Button = 0x7f090105;
-		public static final int TextAppearance_CastIntroOverlay_Title = 0x7f090106;
-		public static final int TextAppearance_CastMiniController_Subtitle = 0x7f090107;
-		public static final int TextAppearance_CastMiniController_Title = 0x7f090108;
-		public static final int Theme_AppInvite_Preview = 0x7f090121;
-		public static final int Theme_AppInvite_Preview_Base = 0x7f090020;
-		public static final int Theme_IAPTheme = 0x7f090128;
-		public static final int WalletFragmentDefaultButtonTextAppearance = 0x7f090132;
-		public static final int WalletFragmentDefaultDetailsHeaderTextAppearance = 0x7f090133;
-		public static final int WalletFragmentDefaultDetailsTextAppearance = 0x7f090134;
-		public static final int WalletFragmentDefaultStyle = 0x7f090135;
+		public static final int CastIntroOverlay = 0x7f0900d7;
+		public static final int CastMiniController = 0x7f0900d8;
+		public static final int TextAppearance_CastIntroOverlay_Button = 0x7f090106;
+		public static final int TextAppearance_CastIntroOverlay_Title = 0x7f090107;
+		public static final int TextAppearance_CastMiniController_Subtitle = 0x7f090108;
+		public static final int TextAppearance_CastMiniController_Title = 0x7f090109;
+		public static final int Theme_AppInvite_Preview = 0x7f090122;
+		public static final int Theme_AppInvite_Preview_Base = 0x7f09001f;
+		public static final int Theme_IAPTheme = 0x7f090129;
+		public static final int WalletFragmentDefaultButtonTextAppearance = 0x7f090133;
+		public static final int WalletFragmentDefaultDetailsHeaderTextAppearance = 0x7f090134;
+		public static final int WalletFragmentDefaultDetailsTextAppearance = 0x7f090135;
+		public static final int WalletFragmentDefaultStyle = 0x7f090136;
 	}
 	public static final class styleable {
 		public static final int[] AdsAttrs = { 0x7f01002a, 0x7f01002b, 0x7f01002c };

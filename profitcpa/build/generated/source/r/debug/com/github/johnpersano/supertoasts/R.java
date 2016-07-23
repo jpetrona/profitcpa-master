@@ -82,17 +82,17 @@ public final class R {
 		public static final int supertoast = 0x7f030058;
 	}
 	public static final class style {
-		public static final int DefaultRootLayout = 0x7f09003b;
-		public static final int DefaultText = 0x7f09003c;
-		public static final int SuperActivityToast_Button_Button = 0x7f09003d;
-		public static final int SuperActivityToast_Button_Divider = 0x7f09003e;
-		public static final int SuperActivityToast_Button_RootLayout = 0x7f09003f;
-		public static final int SuperActivityToast_Button_TextView = 0x7f090040;
-		public static final int SuperActivityToast_ProgressHorizontal_ProgressBar = 0x7f090041;
-		public static final int SuperActivityToast_ProgressHorizontal_RootLayout = 0x7f090042;
-		public static final int SuperActivityToast_ProgressHorizontal_TextView = 0x7f090043;
-		public static final int SuperActivityToast_Progress_ProgressBar = 0x7f090044;
-		public static final int SuperActivityToast_Progress_TextView = 0x7f090045;
-		public static final int SuperCardToast_Button_RootLayout = 0x7f090046;
+		public static final int DefaultRootLayout = 0x7f09003a;
+		public static final int DefaultText = 0x7f09003b;
+		public static final int SuperActivityToast_Button_Button = 0x7f09003c;
+		public static final int SuperActivityToast_Button_Divider = 0x7f09003d;
+		public static final int SuperActivityToast_Button_RootLayout = 0x7f09003e;
+		public static final int SuperActivityToast_Button_TextView = 0x7f09003f;
+		public static final int SuperActivityToast_ProgressHorizontal_ProgressBar = 0x7f090040;
+		public static final int SuperActivityToast_ProgressHorizontal_RootLayout = 0x7f090041;
+		public static final int SuperActivityToast_ProgressHorizontal_TextView = 0x7f090042;
+		public static final int SuperActivityToast_Progress_ProgressBar = 0x7f090043;
+		public static final int SuperActivityToast_Progress_TextView = 0x7f090044;
+		public static final int SuperCardToast_Button_RootLayout = 0x7f090045;
 	}
 }

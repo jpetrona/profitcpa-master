@@ -18,7 +18,6 @@ ADDED from F:\Freelancing\Reggie\profitcpa-master\profitcpa\src\main\AndroidMani
 uses-sdk
 ADDED from F:\Freelancing\Reggie\profitcpa-master\profitcpa\src\main\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:multidex:1.0.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
-MERGED from [profitcpa-master:cardViewLib:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\cardViewLib\unspecified\AndroidManifest.xml:21:5-23:40
 MERGED from [profitcpa-master:supertoasts:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\supertoasts\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [profitcpa-master:library:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\library\unspecified\AndroidManifest.xml:7:5-43
 MERGED from [profitcpa-master:library:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\library\unspecified\AndroidManifest.xml:7:5-43
@@ -1639,6 +1638,7 @@ MERGED from [com.google.android.gms:play-services-basement:9.2.1] F:\Freelancing
 MERGED from [com.android.support:support-v4:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
 MERGED from [com.google.android.gms:play-services-basement:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:23.4.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.aurelhubert:ahbottomnavigation:1.3.3] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\1.3.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\design\24.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
@@ -1865,9 +1865,8 @@ ADDED from F:\Freelancing\Reggie\profitcpa-master\profitcpa\src\main\AndroidMani
 		ADDED from F:\Freelancing\Reggie\profitcpa-master\profitcpa\src\main\AndroidManifest.xml:22:22-76
 application
 ADDED from F:\Freelancing\Reggie\profitcpa-master\profitcpa\src\main\AndroidManifest.xml:24:5-105:19
-MERGED from [profitcpa-master:cardViewLib:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\cardViewLib\unspecified\AndroidManifest.xml:25:5-20
 MERGED from [profitcpa-master:supertoasts:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\supertoasts\unspecified\AndroidManifest.xml:11:5-20
-MERGED from [profitcpa-master:floatlabelededittext:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\floatlabelededittext\unspecified\AndroidManifest.xml:6:5-20
+MERGED from [profitcpa-master:floatlabelededittext:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\floatlabelededittext\unspecified\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services\9.2.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-basement:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\AndroidManifest.xml:20:5-24:19
@@ -3455,6 +3454,7 @@ MERGED from [com.google.android.gms:play-services-basement:9.2.1] F:\Freelancing
 MERGED from [com.android.support:support-v4:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.aurelhubert:ahbottomnavigation:1.3.3] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\1.3.3\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\design\24.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:24.0.0] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20

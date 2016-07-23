@@ -1,7 +1,0 @@
-#Sat Jul 23 16:04:16 PKT 2016
-base.0=F\:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7aaa31b6b2ae982b4589882b9f5ef6327e71c8b0
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=F\:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df1664739ab6103e80f9b3cf91cb6cb8861b0ed5\\classes.dex
-base.1=F\:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df1664739ab6103e80f9b3cf91cb6cb8861b0ed5
-file.0=F\:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7aaa31b6b2ae982b4589882b9f5ef6327e71c8b0\\classes.dex

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="recyclerview">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/cardViewLib/libs/recyclerview.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

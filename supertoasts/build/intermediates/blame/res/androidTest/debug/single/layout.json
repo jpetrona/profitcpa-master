@@ -4,36 +4,12 @@
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\superactivitytoast_progresshorizontal.xml"
     },
     {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\superactivitytoast_progresshorizontal.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\superactivitytoast_progresshorizontal.xml"
-    },
-    {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supercardtoast.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\supercardtoast.xml"
-    },
-    {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supercardtoast_progresscircle.xml",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\supercardtoast_progresscircle.xml"
     },
     {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supertoast.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\supertoast.xml"
-    },
-    {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\superactivitytoast_progresscircle.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\superactivitytoast_progresscircle.xml"
-    },
-    {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dummy_layout.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\dummy_layout.xml"
-    },
-    {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\superactivitytoast_button.xml",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\superactivitytoast_button.xml"
-    },
-    {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supercardtoast_button.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\supercardtoast_button.xml"
     },
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\superactivitytoast_progresscircle.xml",
@@ -42,10 +18,6 @@
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dummy_layout.xml",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\dummy_layout.xml"
-    },
-    {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supercardtoast_progresscircle.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\supercardtoast_progresscircle.xml"
     },
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supercardtoast_button.xml",
@@ -62,13 +34,5 @@
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supercardtoast.xml",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\supercardtoast.xml"
-    },
-    {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\supercardtoast_progresshorizontal.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\supercardtoast_progresshorizontal.xml"
-    },
-    {
-        "merged": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\superactivitytoast_button.xml",
-        "source": "F:\\MyWork\\profitcpaa\\supertoasts\\build\\intermediates\\bundles\\debug\\res\\layout\\superactivitytoast_button.xml"
     }
 ]
