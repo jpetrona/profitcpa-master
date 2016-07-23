@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_24d5e157157ee506cbbb6028a81a3d044e26e1d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\2\retrofit-1.9.0_08bba51c203c4a95b7877b89d5dc63b2acaacaab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.2.1_d440d2e38a767a7af07bca62748f7b844c6def49.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_f385e9f3b6933fb5af40df32f128ebe7ef656df7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.2.1_58eb64d72d8fe3367b9e811bc890d253860b9993.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_627cd1874ca4473d0f7fa615421b46b50692f220\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\gson-2.3.1_9ad10d151b1cfaafad6bb1ee8c6f6a3b55060320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.1_f6a8ef570871c9af54b2da3edeb8847d82d80fa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_e82c54eced6939d63e06b39509ee177084c03742.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="9d20639edce7b5745acc26953b7443947a36caaa">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7aaa31b6b2ae982b4589882b9f5ef6327e71c8b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_32661f7503dd5268d3fdc513a4e38f3324fd921d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_746d1fa7ec0d19579ea37dceb7be187cd7a4eb5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.1_8321017f049bf0e234aee850f1d242a389736ce3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_a4d9d02d4065d0d4a4985d5464cecfd3fa30cf29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_b41f53e5ee9db42321e10b82c2d3c9abcd5a3067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_a682cad410d13bb7390cf7f0126a57ce368a8342\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-contextmanager-9.2.1_45eff6e27c6810df7dd233e0bbd9f5d06ad8ac47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\cardViewLib\unspecified\jars\libs\recyclerview.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="67be38299c09571bac07b346137a27f714c6d6a8">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\recyclerview_959e32edb7edda3106cf602649cd0f84eac4bb3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_4fd36c3ded33e7aa855ed199776bb2aa82af0efd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.1_04fa5b3d381c73f585881d80132888f45d8a9bae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_cec67783f1385c5d6e19cb8b5cebe1c7cc57a61f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_d66203edb2e05948b307a6b63c2dbf77c246d320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_d95ac63da369452381c47a84f95273690db23b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.1_ffd1b7312f806e09e6ed3536641f34b0dd318905.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_8efb300a3096fd787c91759326af9ef1dc42bdd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.1_738db0b387a0c087262dc99ecf502f7ae998a989.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_5fa26c8811114f9ae65f6a403bf5d8f1681b3638\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_58eb64d72d8fe3367b9e811bc890d253860b9993\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.2.1_a33caf0676214c6d44c888bf1e64c6f937e4533b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_4f23c1769cfa1f9c25347b84bc4ff5917953a29d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.1_24d5e157157ee506cbbb6028a81a3d044e26e1d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_c3b82c1fc3ccda378700b1a72e9876a3d0a3cb60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_9ad10d151b1cfaafad6bb1ee8c6f6a3b55060320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_d440d2e38a767a7af07bca62748f7b844c6def49\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_f385e9f3b6933fb5af40df32f128ebe7ef656df7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_b93307df3a247ad517f1c4ef517acd3451adc032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_cd835bceb9b4a82d3fc534fad6594771e195be01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_b4508e72e7ac3b16a42af16bee2e68f21594e9c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_f6a8ef570871c9af54b2da3edeb8847d82d80fa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_e6520b3e95d3292164be8e7fc51f0445dacb173f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.1_82344da1c0586b796b5bb1a83ae89fa73cac9bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.2.1_df9f5aa1ce605ae0cb9d31b2990ab1c09ee44c95.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_8321017f049bf0e234aee850f1d242a389736ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_339bea795b7268a140ee95969ba7e21562952a90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_164e7fe4a6ec11747b9d7b542653f68be6e3c91d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_d2a9381ff0bd20e5b31f0a75a86c682aad49a833\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.1_8efb300a3096fd787c91759326af9ef1dc42bdd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.2.1_b7c5b97ea6119b32834c6c6d0ec8bfd70d659b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_dbfe05e6a25f70e9e2e8e62097da6e4adf1270f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_459f1f39affd08ab39ca2125f1b18b1f91ffbabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_b41f53e5ee9db42321e10b82c2d3c9abcd5a3067.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_04fa5b3d381c73f585881d80132888f45d8a9bae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\cardViewLib\unspecified\jars\libs\recyclerview.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="db43add2202c941487e3814587a40894d9ffc395">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\8\recyclerview_959e32edb7edda3106cf602649cd0f84eac4bb3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_d6b0f6af1d439dc335b0d7bc298b82e03d9c8168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_ed6ab13d072bd3612581c4a1724ee8776e117033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_1a0e952436ea8870f1af9bbc2614164bf9b71460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_3f5f1126da132439bbd39fff4abe489c02466e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_738db0b387a0c087262dc99ecf502f7ae998a989\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.2.1_bd40817a1afa774bdbbe2dd22321410330374afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_4fd36c3ded33e7aa855ed199776bb2aa82af0efd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_b449ae3ecb95dd3564ff9a73d3ab3ae5f9a7b50e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\cardViewLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="55e0d67f0837c220279362ca6b933788da9b9a6c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\profitcpa-master-cardViewLib-unspecified_1836335caa757a01d67503af91fae26ca6998a47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\NativeXMonetizationSDK_v5.4.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="521b1a825efe11260692b8158d16c41910b5cd22">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\2\NativeXMonetizationSDK_v5.4.4_ead379a630fa628f122f8c09446d1e4739884a26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_ffd1b7312f806e09e6ed3536641f34b0dd318905\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_5fa26c8811114f9ae65f6a403bf5d8f1681b3638.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_a63fabf736598f93cdea1b408d7f4267a7219152\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\picasso-2.5.2_39bf5b7785d1bf9eb46b176b83d2ccf61eaddbe1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_38dac8826220ecdec55551906421519f3d372549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\1.3.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4234bd96344a30c7130d4bd89f3ab9116c30931b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.aurelhubert-ahbottomnavigation-1.3.3_2d9d1f04dc6493ef7309ec621261b1c0cf1a5e57\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_e315e927246f46f2b0f10daa89545ccd13136611.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_82c89a04614c2a008ae604de60d92ff7f164ec66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_4f23c1769cfa1f9c25347b84bc4ff5917953a29d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_45eff6e27c6810df7dd233e0bbd9f5d06ad8ac47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_a33caf0676214c6d44c888bf1e64c6f937e4533b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="7510b17a4fc53613b6598f96239f254342061721">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_df1664739ab6103e80f9b3cf91cb6cb8861b0ed5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.2.1_fff560e3c6514d103fd3da0169d3e5d05ab154bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.1_807678e868ce522499a4e4970c2a71ed7240cc6a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_df9f5aa1ce605ae0cb9d31b2990ab1c09ee44c95\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_4834dd397ba9f3fc417abd7850d6c281b9b401fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\floatlabelededittext\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fef641468534c003c95f204c3de0be9d44805566">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\profitcpa-master-floatlabelededittext-unspecified_85ebfa7cb2ccbca3f98bd536eefa02bf5122b7f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.2.1_c3b82c1fc3ccda378700b1a72e9876a3d0a3cb60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.2.1_cd835bceb9b4a82d3fc534fad6594771e195be01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\cardViewLib\unspecified\jars\libs\cardview.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3c53b9ae94391ea8562683dab4eb498627249ed7">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\cardview_21efae065011375b760fd9ffe500e54ea0386855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.1_b93307df3a247ad517f1c4ef517acd3451adc032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_ed36f017483111ced9feaa832a290feb3effde1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="63e7aec80fb6524856ac23cc6b0e983fde47b308">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\profitcpa-master-library-unspecified_f3e868e4866e3d623b342c7791ffd3ad28cd92e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.2.1_841fd334a2a8fb1ea554045b2ff7121ad7a9595d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.2.1_e6520b3e95d3292164be8e7fc51f0445dacb173f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_82344da1c0586b796b5bb1a83ae89fa73cac9bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_575003516b419adfe6feb0b836d09f3dcf9198fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.1_4621328f01c67eed800dd6ccee4d289d53f0ef26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.2.1_b4508e72e7ac3b16a42af16bee2e68f21594e9c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_9cac4eaea38a3ff929ba53064e48e79df6eaf00e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.2.1_d2a9381ff0bd20e5b31f0a75a86c682aad49a833.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_ff90129b03a4635ffb3413c76ea57dae9f616a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_37dd3f41dd13d9eca327324548f559d2893e6003\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\supertoasts\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f39faa247f7888311737f6f1d31b020760e0b57b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\profitcpa-master-supertoasts-unspecified_93c4c24200adba12231509c8dd7faf15e741a2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_164e7fe4a6ec11747b9d7b542653f68be6e3c91d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_b7c5b97ea6119b32834c6c6d0ec8bfd70d659b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_bd40817a1afa774bdbbe2dd22321410330374afb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.2.1_b449ae3ecb95dd3564ff9a73d3ab3ae5f9a7b50e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_288010fa2ae2c65ef3b86cc3a684eb07a0aa2021.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_39bf5b7785d1bf9eb46b176b83d2ccf61eaddbe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_d6b0f6af1d439dc335b0d7bc298b82e03d9c8168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.2.1_ed6ab13d072bd3612581c4a1724ee8776e117033.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_06f9157e41c231d93dd12b133a026cf07df19745\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.1_3f5f1126da132439bbd39fff4abe489c02466e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_339bea795b7268a140ee95969ba7e21562952a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.2.1_5960490e47ecd9bf8a5cbcaf5545763ad6457bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_1a0e952436ea8870f1af9bbc2614164bf9b71460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.2.1_a63fabf736598f93cdea1b408d7f4267a7219152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\NativeXMonetizationSDK_v5.4.4.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="521b1a825efe11260692b8158d16c41910b5cd22">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\NativeXMonetizationSDK_v5.4.4_ead379a630fa628f122f8c09446d1e4739884a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.2.1_82c89a04614c2a008ae604de60d92ff7f164ec66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.1_38dac8826220ecdec55551906421519f3d372549.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_e315e927246f46f2b0f10daa89545ccd13136611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_459f1f39affd08ab39ca2125f1b18b1f91ffbabe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sharj\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_4834dd397ba9f3fc417abd7850d6c281b9b401fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_dbfe05e6a25f70e9e2e8e62097da6e4adf1270f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\1.3.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4234bd96344a30c7130d4bd89f3ab9116c30931b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-1.3.3_2d9d1f04dc6493ef7309ec621261b1c0cf1a5e57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\cardViewLib\unspecified\jars\libs\cardview.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a1cbb47505e00c35b40c6e5e92ac164479af4065">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\8\cardview_21efae065011375b760fd9ffe500e54ea0386855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_fff560e3c6514d103fd3da0169d3e5d05ab154bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\retrofit-1.9.0_08bba51c203c4a95b7877b89d5dc63b2acaacaab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_807678e868ce522499a4e4970c2a71ed7240cc6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.1_627cd1874ca4473d0f7fa615421b46b50692f220.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_e82c54eced6939d63e06b39509ee177084c03742\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.2.1_746d1fa7ec0d19579ea37dceb7be187cd7a4eb5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_4621328f01c67eed800dd6ccee4d289d53f0ef26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_32661f7503dd5268d3fdc513a4e38f3324fd921d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.2.1_a4d9d02d4065d0d4a4985d5464cecfd3fa30cf29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_ed36f017483111ced9feaa832a290feb3effde1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.1_a682cad410d13bb7390cf7f0126a57ce368a8342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_ff90129b03a4635ffb3413c76ea57dae9f616a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.1_575003516b419adfe6feb0b836d09f3dcf9198fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.2.1_d66203edb2e05948b307a6b63c2dbf77c246d320.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_841fd334a2a8fb1ea554045b2ff7121ad7a9595d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.2.1_06f9157e41c231d93dd12b133a026cf07df19745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.2.1_d95ac63da369452381c47a84f95273690db23b80.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_5960490e47ecd9bf8a5cbcaf5545763ad6457bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_288010fa2ae2c65ef3b86cc3a684eb07a0aa2021\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.2.1_cec67783f1385c5d6e19cb8b5cebe1c7cc57a61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.2"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.2.1_37dd3f41dd13d9eca327324548f559d2893e6003.jar" />
+    </item>
+
+</items>

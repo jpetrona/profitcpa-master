@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="splashcolor">#F7941D</color>
+    <color name="fragment">#F7941D</color>
+    <color name="toolbar">#219245</color>
+    <color name="tab">#219245</color>
+    <color name="tabselected">#219245</color>
+    <color name="textbg">#219245</color>
+    <color name="categorycolor">#219245</color>
+    <color name="button">#219245</color>
+    <color name="buttonregister">#219245</color>
+
+    <color name="buttontext">#FFFFFF</color>
+    <color name="textwhite">#219245</color>
+    <color name="textdark">#FFFFFF</color>
+    <color name="textsettings">#219245</color>
+
+    <color name="row">#FFFFFF</color>
+    <color name="tabselector">#FFFFFF</color>
+    <color name="rowselected">#FFFFFF</color>
+    <color name="textgrey">#5e5e5e</color>
+    <color name="costcolor">#59A80F</color>
+
+    <!--<color name="splashcolor">#e9f3f5</color>-->
+    <!--<color name="fragment">#e9f3f5</color>-->
+    <!--<color name="toolbar">#8fc4f6</color>-->
+    <!--<color name="tab">#8fc4f6</color>-->
+    <!--<color name="tabselected">#8fc4f6</color>-->
+    <!--<color name="textbg">#8fc4f6</color>-->
+    <!--<color name="categorycolor">#8fc4f6</color>-->
+    <!--<color name="button">#8fc4f6</color>-->
+    <!--<color name="buttonregister">#8fc4f6</color>-->
+
+    <!--<color name="buttontext">#FFFFFF</color>-->
+    <!--<color name="textwhite">#333a40</color>-->
+    <!--<color name="textdark">#FFFFFF</color>-->
+    <!--<color name="textsettings">#333a40</color>-->
+
+    <!--<color name="row">#FFFFFF</color>-->
+    <!--<color name="tabselector">#FFFFFF</color>-->
+    <!--<color name="rowselected">#FFFFFF</color>-->
+    <!--<color name="textgrey">#a5a5a5</color>-->
+    <!--<color name="costcolor">#59A80F</color>-->
+
+    <array name="tab_colors">
+        <item name="tab_1">#455C65</item>
+        <item name="tab_2">#00886A</item>
+        <item name="tab_3">#8B6B62</item>
+        <item name="tab_4">#6C4A42</item>
+        <item name="tab_5">#F63D2B</item>
+    </array>
+
+    <color name="color_tab_1">#219245</color>
+    <color name="color_tab_2">#8B6B62</color>
+    <color name="color_tab_3">#5e5e5e</color>
+    <color name="color_tab_4">#242F40</color>
+    <color name="color_tab_5">#219245</color>
+
+</resources>

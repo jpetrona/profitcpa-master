@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cardViewLib/cardViewLib.iml" filepath="$PROJECT_DIR$/cardViewLib/cardViewLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatlabelededittext/floatlabelededittext.iml" filepath="$PROJECT_DIR$/floatlabelededittext/floatlabelededittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profitcpa/profitcpa.iml" filepath="$PROJECT_DIR$/profitcpa/profitcpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profitcpa-master.iml" filepath="$PROJECT_DIR$/profitcpa-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supertoasts/supertoasts.iml" filepath="$PROJECT_DIR$/supertoasts/supertoasts.iml" />
+    </modules>
+  </component>
+</project>

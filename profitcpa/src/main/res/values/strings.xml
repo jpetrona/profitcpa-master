@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rewards</string>
+    <string name="pubid">34908</string>
+    <string name="apikey">1436650187</string>
+    <string name="action_settings">Settings</string>
+    <string name="reset">Resetting your Password</string>
+    <string name="terms">Terms &amp; Privacy</string>
+    <string name="LoginString">Logging in..</string>
+    <string name="RegisterString">Registering Account..</string>
+    <string name="registerok">You have successfully registered.</string>
+    <string name="Fillfields">Please fill all the fields.</string>
+    <string name="ourerror">Server error, please try again later</string>
+    <string name="OfferString">Curating offers, please wait..</string>
+    <string name="Checkout">Processing your checkout request..</string>
+    <string name="CheckoutProcessed">Processing your checkout request..</string>
+    <string name="NewNotifications1">You have</string>
+    <string name="NewNotifications2">new notifications.</string>
+    <string name="shownotifs">SHOW</string>
+
+    <string-array name="tabs">
+        <item>Offers</item>
+        <item>Widthraw</item>
+        <item>Ranking</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="tab_1">Offers</string>
+    <string name="tab_2">Widthraw</string>
+    <string name="tab_3">Ranking</string>
+    <string name="tab_4">Settings</string>
+
+    <string name="paypaltitle1">$1.00 PayPal Cash</string>
+    <string name="paypaltitle2">$2.00 PayPal Cash</string>
+    <string name="paypaltitle3">$5.00 PayPal Cash</string>
+    <string name="paypaltitle4">$10.00 Paypal Cash</string>
+    <string name="paypaltitle5">$25.00 Paypal Cash</string>
+    <string name="paypaltitle6">$50.00 Paypal Cash</string>
+    <string name="paypaltitle7">$100.00 Paypal Cash</string>
+    <string name="paypaltitle8">$500.00 Paypal Cash</string>
+    <string name="paypalvalue1">100</string>
+    <string name="paypalvalue2">180</string>
+    <string name="paypalvalue3">450</string>
+    <string name="paypalvalue4">850</string>
+    <string name="paypalvalue5">2000</string>
+    <string name="paypalvalue6">4000</string>
+    <string name="paypalvalue7">8000</string>
+    <string name="paypalvalue8">40000</string>
+    <string name="amazontitle1">Amazon $10 Gift Card</string>
+    <string name="amazontitle2">Amazon $25 Gift Card</string>
+    <string name="amazontitle3">Amazon $50 Gift Card</string>
+    <string name="amazontitle4">Amazon $100 Gift Card</string>
+    <string name="amazonvalue1">850</string>
+    <string name="amazonvalue2">2000</string>
+    <string name="amazonvalue3">4000</string>
+    <string name="amazonvalue4">8000</string>
+    <string name="amazondesc">Convert your credits to Amazon Gift Cards.</string>
+    <string name="paypaldesc">Convert your cashee credits to real Paypal cash.</string>
+    <string name="paypalsent">DELIVERED WITHIN 24 HOURS</string>
+    <string name="paypalsent2">DELIVERED WITHIN 48 HOURS</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="process_addrefer">Processing your add referal request..</string>
+
+    <string-array name="categories">
+        <item>Install</item>
+        <item>Email submit</item>
+        <item>1 Page submit</item>
+        <item>2 Page submit</item>
+        <item>Credit Card submit</item>
+        <item>Pin confirm</item>
+        <item>Download</item>
+        <item>Install</item>
+        <item>Email submit</item>
+        <item>3 Page submit</item>
+        <item>4 Page submit</item>
+        <item>Page submit</item>
+        <item>Register</item>
+        <item>Install</item>
+        <item>Launch</item>
+    </string-array>
+
+</resources>
