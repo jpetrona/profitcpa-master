@@ -71,8 +71,13 @@ public class SplashActivity extends Activity {
 			finish();
 		}
 		*/
-
-		insertDummyContactWrapper();
+		if (Build.VERSION.SDK_INT >= 23) {
+			// Marshmallow+
+			insertDummyContactWrapper();
+		} else {
+			// Pre-Marshmallow
+			init();
+		}
 	}
 
 	public void init() {
