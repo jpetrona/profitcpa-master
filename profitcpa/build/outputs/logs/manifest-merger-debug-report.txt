@@ -1866,7 +1866,7 @@ ADDED from F:\Freelancing\Reggie\profitcpa-master\profitcpa\src\main\AndroidMani
 application
 ADDED from F:\Freelancing\Reggie\profitcpa-master\profitcpa\src\main\AndroidManifest.xml:24:5-105:19
 MERGED from [profitcpa-master:supertoasts:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\supertoasts\unspecified\AndroidManifest.xml:11:5-20
-MERGED from [profitcpa-master:floatlabelededittext:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\floatlabelededittext\unspecified\AndroidManifest.xml:5:5-20
+MERGED from [profitcpa-master:floatlabelededittext:unspecified] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\profitcpa-master\floatlabelededittext\unspecified\AndroidManifest.xml:6:5-20
 MERGED from [com.google.android.gms:play-services:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services\9.2.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-basement:9.2.1] F:\Freelancing\Reggie\profitcpa-master\profitcpa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\AndroidManifest.xml:20:5-24:19

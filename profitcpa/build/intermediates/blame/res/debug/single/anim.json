@@ -16,12 +16,12 @@
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
