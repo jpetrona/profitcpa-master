@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "outputFile": "F:\\MyWork\\profitcpa-master\\profitcpa\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "F:\\Freelancing\\Reggie\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.2.1\\res\\values-en-rSG\\values.xml",
+                    "file": "F:\\MyWork\\profitcpa-master\\profitcpa\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.2.1\\res\\values-en-rSG\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -41,7 +41,6 @@ public class Ranking extends Fragment implements OnRefreshListener {
 		recyclerView.setHasFixedSize(true);
 		layoutManager = new LinearLayoutManager(this.getActivity());
 		recyclerView.setLayoutManager(layoutManager);
-		GetRank();
 		return v;
 	}
 
@@ -63,6 +62,13 @@ public class Ranking extends Fragment implements OnRefreshListener {
 				super.onFailure(statusCode, headers, responseString, throwable);
 			}
 		});
+	}
+
+	@Override
+	public void onResume() {
+		super.onResume();
+		GetRank();
+
 	}
 
 	@Override

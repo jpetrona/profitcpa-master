@@ -5,7 +5,7 @@
     android:orientation="vertical" android:layout_width="fill_parent"
     card_view:cardElevation="2dp"
  card_view:cardMaxElevation="2dp"
- android:layout_height="match_parent">
+ android:layout_height="wrap_content">
   		<RelativeLayout
         android:id="@+id/MainLayout"
         android:layout_height="wrap_content"
